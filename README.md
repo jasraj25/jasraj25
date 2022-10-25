@@ -1,3 +1,4 @@
+![logo](https://github.com/jasraj25/jasraj25/blob/main/banner%23.png)
 <h1 align="center">Hi 👋, I'm Jas Raj Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
