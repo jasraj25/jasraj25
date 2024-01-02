@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jasraj2509@gmail.com**
 
-- 📄 Know about my experiences on the [Resume](https://drive.google.com/file/d/1FtrBb3JbBnDcyIY2aj2FB2pVocfEdumx/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1FtrBb3JbBnDcyIY2aj2FB2pVocfEdumx/view?usp=sharing)
 - ⚡ Fun fact **I love games and sports**
 
 <h3 align="left">Connect with me:</h3>
